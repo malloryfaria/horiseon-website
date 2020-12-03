@@ -34,4 +34,4 @@ Accessibility & semantic tags
 ## License
 None
 
-© [Mallory]()
+© [Mallory](https://github.com/malloryfaria)
