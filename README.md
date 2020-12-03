@@ -7,7 +7,7 @@ Live
  
 ## Screenshots
 
-![A group of coworkers at a meeting reviewing a document ](/production/assets/images/digital-marketing-meeting.jpg?raw=true "Horiseon Meeting")
+![A group of coworkers at a meeting reviewing a document ](/assets/images/digital-marketing-meeting.jpg?raw=true "Horiseon Meeting")
 
 ## Tech/framework used
 
